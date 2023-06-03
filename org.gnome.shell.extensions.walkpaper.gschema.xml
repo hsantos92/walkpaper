@@ -14,7 +14,7 @@
     <key name="workspace-index" type="i">
       <default>0</default>
       <summary>Current workspace index.</summary>
-      <description></description>
+      <description>Index of the current workspace.</description>
     </key>
   </schema>
 </schemalist>
